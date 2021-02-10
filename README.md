@@ -7,7 +7,7 @@ A lista de transmissão do whatsapp é a forma de enviar a mesma mensagem para d
 
 ##### Android
 ### Criando uma lista de transmissão 
-- Clique em ![menu](https://drive.google.com/file/d/1Vd5evEoPPo4piqLsYtbmuNHiIhTwgLVE/view)
+- Clique em ![menu](Tech%20writing%20-%20VTEX/3pontos.png)
 - no **menu**, clique em **nova transmissão**
 - Selecione os contatos que receberão a mensagem
 - Clique em  para confirmar
